@@ -3,7 +3,7 @@ const updateArray = [
     id: 1,
     title: "Test Title",
     subTitle: "Test SubTitle",
-	synopsis: "Synopsis"
+	synopsis: "Test Synopsis"
   }
 ];
 
